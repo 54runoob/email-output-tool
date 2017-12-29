@@ -1,0 +1,14 @@
+{
+  "name": "email-output-tool",
+  "version": "1.0.0",
+  "description": "邮箱随机生成工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chi",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "0.0.1-security"
+  }
+}
